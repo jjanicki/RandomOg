@@ -10,7 +10,7 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("The bookkeper's mouth opened but no sound came forth. -pg.3");
             quotes.Add("But, as you can observe, there is nothing here but a small chest. -pg.11");
             quotes.Add("Momentarily her clasped it to his breats and closed his eyes. -pg.11");
-            quotes.Add("HOlding it gently between his fingers and his thumb, he shook it towards Hafid. -pg.13");
+            quotes.Add("Holding it gently between his fingers and his thumb, he shook it towards Hafid. -pg.13");
             quotes.Add("He spoke softly from his knees, will you stay with me until that day, Erasmus? -pg.15");
             quotes.Add("The bookkeeper reached through soft light until their hands clasped. -pg.15");
             quotes.Add("Finally he lowered his ailing body to the gold-woven rug and backoned the lad to move closer. -pg.17");
@@ -20,7 +20,7 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("Then the woman trembled and Hafid saw that her thi garment offered little protection against the dampness of the cave. -pg.30");
             quotes.Add("Hafid closed his eyes and sighed. -pg.31");
             quotes.Add("Moisture from the young mother's kiss was still on Hafid's cheek as he led his animal out of the cave. -pg.31/32");
-            quotes.Add("I have never known a nigh or an experience such as this. -pg.35");
+            quotes.Add("I have never known a night or an experience such as this. -pg.35");
             quotes.Add("This night I shall never forget either, master. -pg.35");
             quotes.Add("Soon the sobs subsided and there was only silence in the great tent. -pg.37");
             quotes.Add("The he felt the great salesman's hand on his shoulder and forced himself to look into the eyes of Pathros. -pg.37");
