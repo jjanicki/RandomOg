@@ -9,7 +9,7 @@ namespace RandomOgGenerator.Helpers
             List<string> quotes = new List<string>();
             quotes.Add("The bookkeper's mouth opened but no sound came forth. -pg.3");
             quotes.Add("But, as you can observe, there is nothing here but a small chest. -pg.11");
-            quotes.Add("Momentarily her clasped it to his breats and closed his eyes. -pg.11");
+            quotes.Add("Momentarily he clasped it to his breats and closed his eyes. -pg.11");
             quotes.Add("Holding it gently between his fingers and his thumb, he shook it towards Hafid. -pg.13");
             quotes.Add("He spoke softly from his knees, will you stay with me until that day, Erasmus? -pg.15");
             quotes.Add("The bookkeeper reached through soft light until their hands clasped. -pg.15");
