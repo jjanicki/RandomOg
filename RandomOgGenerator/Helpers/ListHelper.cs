@@ -9,7 +9,7 @@ namespace RandomOgGenerator.Helpers
             List<string> quotes = new List<string>();
             quotes.Add("The bookkeper's mouth opened but no sound came forth. -pg.3");
             quotes.Add("But, as you can observe, there is nothing here but a small chest. -pg.11");
-            quotes.Add("Momentarily he clasped it to his breats and closed his eyes. -pg.11");
+            quotes.Add("Momentarily he clasped it to his breast and closed his eyes. -pg.11");
             quotes.Add("Holding it gently between his fingers and his thumb, he shook it towards Hafid. -pg.13");
             quotes.Add("He spoke softly from his knees, will you stay with me until that day, Erasmus? -pg.15");
             quotes.Add("The bookkeeper reached through soft light until their hands clasped. -pg.15");
@@ -17,7 +17,7 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("The lad fell to his knees and grasped Pathros' robe. -pg.21");
             quotes.Add("When you are on the road with only your animal it is a strange and often frightening sensation. -pg.23");
             quotes.Add("He departed from the noisy inn and headed toward the cave and his animal. pg.29");
-            quotes.Add("Then the woman trembled and Hafid saw that her thi garment offered little protection against the dampness of the cave. -pg.30");
+            quotes.Add("Then the woman trembled and Hafid saw that her thin garment offered little protection against the dampness of the cave. -pg.30");
             quotes.Add("Hafid closed his eyes and sighed. -pg.31");
             quotes.Add("Moisture from the young mother's kiss was still on Hafid's cheek as he led his animal out of the cave. -pg.31/32");
             quotes.Add("I have never known a night or an experience such as this. -pg.35");
