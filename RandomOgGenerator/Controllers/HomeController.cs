@@ -32,10 +32,8 @@ namespace RandomOgGenerator.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult ErrorNotFound()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }
