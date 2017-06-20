@@ -34,7 +34,8 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("The first blow may not cause a tremor in the wood, nor the second, nor the third. -pg.64");
             quotes.Add("Each minute of this day will I grasp with both hands and fondle with love for its value its beyond price. -pg.75");
             quotes.Add("Today I shall fondle my children while they are young; -pg.76");
-            quotes.Add("Oh, ho, then something did indeed happen this evening.");
+            quotes.Add("Oh, ho, then something did indeed happen this evening. -pg.35");
+            quotes.Add("Paul pushed his sack aside and knelt near the old man who waited in silence. -pg.106");
 
             return quotes;
         }
