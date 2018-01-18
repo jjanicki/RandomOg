@@ -13,7 +13,7 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("Holding it gently between his fingers and his thumb, he shook it towards Hafid. -pg.13");
             quotes.Add("He spoke softly from his knees, will you stay with me until that day, Erasmus? -pg.15");
             quotes.Add("The bookkeeper reached through soft light until their hands clasped. -pg.15");
-            quotes.Add("Finally he lowered his ailing body to the gold-woven rug and backoned the lad to move closer. -pg.17");
+            quotes.Add("Finally he lowered his ailing body to the gold-woven rug and beckoned the lad to move closer. -pg.17");
             quotes.Add("The lad fell to his knees and grasped Pathros' robe. -pg.21");
             quotes.Add("When you are on the road with only your animal it is a strange and often frightening sensation. -pg.23");
             quotes.Add("He departed from the noisy inn and headed toward the cave and his animal. pg.29");
@@ -28,7 +28,7 @@ namespace RandomOgGenerator.Helpers
             quotes.Add("Finally he reached inside and touched the leather. -pg.47");
             quotes.Add("It gave under his fingers as if it were alive and he hurriedly withdrew his hand. -pg.47");
             quotes.Add("He removed it from the box and gently unrolled it. -pg.49");
-            quotes.Add("The career I have chosed is laden with opportunity yet it is fraught with the heartbeak and despair and the bodies of those who have failed, were they piled one atop another, would cast a shadow down upon all the pyramids of the earth. -pg.52");
+            quotes.Add("The career I have chosen is laden with opportunity yet it is fraught with the heartbeak and despair and the bodies of those who have failed, were they piled one atop another, would cast a shadow down upon all the pyramids of the earth. -pg.52");
             quotes.Add("Thus a new and good habit is born, for when an act becomes easy through constant repetition it becomes a pleasure to perform and if it is a pleasure to perform it is a man's nature to perform it often. -pg.56");
             quotes.Add("And the seed of success I will swallow. -pg.57");
             quotes.Add("The first blow may not cause a tremor in the wood, nor the second, nor the third. -pg.64");
